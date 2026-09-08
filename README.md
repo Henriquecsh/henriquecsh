@@ -20,10 +20,6 @@ Mais do que apenas programar ou desenhar, encaro meu trabalho como um hobby e um
 - **Design Digital:** Criação e vetorização de layouts e interfaces utilizando Adobe Photoshop, Illustrator e Fireworks.
 - **DevOps & Otimização:** Fluxos de trabalho modernos com Git/GitHub, automação via GitHub Actions e aplicação de técnicas avançadas de SEO para posicionamento orgânico.
 
-
-
-📍 São João Batista - Belo Horizonte - MG
-
 ---
 
 ### 🛠️ Tecnologias e Habilidades
@@ -87,3 +83,9 @@ Quer trocar uma ideia sobre desenvolvimento web, e-commerce ou novas oportunidad
 ---
 
 ⭐️ Se gostou do meu trabalho, deixe uma estrela nos repositórios!
+
+---
+
+### Localização
+
+📍 Belo Horizonte - MG - Brasil
