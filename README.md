@@ -1,16 +1,74 @@
-## Hi there 👋
+### Olá! Eu sou o **Henrique Souza** 👋
 
-<!--
-**Henriquecsh/henriquecsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Web Full Stack | WordPress | Magento | PHP | Front-end**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Sobre mim
+
+Sou um desenvolvedor versátil especializado na criação de sites bonitos e funcionais, interfaces digitais e sistemas web.  
+Tenho **mais de 10 anos de experiência** na indústria web e trabalhei com muitas empresas e clientes excepcionais.  
+
+Sou um designer apaixonado que sempre quer crescer, aprender e tentar algo novo.  
+**Amo o que faço — meu trabalho é meu hobby.**
+
+📍 São João Batista - Belo Horizonte - MG
+
+---
+
+### 🛠️ Tecnologias e Habilidades
+
+**Front-end**
+- HTML5 / CSS3 / SASS / SCSS / Less
+- JavaScript / jQuery
+- React.js (Básico)
+
+**Back-end & CMS**
+- PHP / MySQL
+- WordPress / WooCommerce (Avançado)
+- Magento 1.x & 2.x
+
+**Ferramentas & Outros**
+- Git / GitHub / Git Actions
+- SEO
+- Adobe Photoshop & Illustrator
+- Adobe Fireworks
+
+---
+
+### 💼 Experiência Profissional
+
+| Período              | Cargo                    | Empresa                        | Tecnologias principais                                   |
+|----------------------|--------------------------|--------------------------------|----------------------------------------------------------|
+| Out 2017 – Fev 2025  | Desenvolvedor Front-end  | Bertholdo Consultoria (Remoto) | WordPress, WooCommerce, Magento, PHP, React, Git Actions |
+| Set 2016 – Set 2017  | Desenvolvedor Front-end  | Webvendas Ecommerce (Remoto)   | WordPress, ASP.NET, HTML5, CSS3, SASS                    |
+| Mar 2015 – Out 2016  | Web Designer             | Potestatem Tecnologia          | WordPress, Laravel, PHP                                  |
+| Dez 2013 – Mar 2015  | Web Designer             | Max Hospedagem                 | HTML5, CSS3, SASS, Less                                  |
+| Jun 2012 – Nov 2013  | Web Designer             | Exodus Turismo                 | WordPress, PHP                                           |
+| Ago 2011 – Abr 2012  | Web Designer             | Adapte Sistemas                | PHP, HTML5, CSS3, .NET                                   |
+
+---
+
+### 🚀 Últimos Projetos
+
+- [**Germânica**](https://germanica.com.br)
+- [**Loja Cozinhanet**](https://lojacozinhanet.com.br)
+- [**DG Signs Print**](https://dgsignsprint.co.uk)
+- [**Insait**](https://insait.com.br)
+- [**Mgodoi Consultoria**](http://www.mgodoi.com.br)
+- [**CER Ensino Religioso**](https://cerensinoreligioso.com.br)
+- [**SATS Administradora**](http://satsbh.com.br/)
+- [**Elysium Telecom**](http://elysiumtelecom.com.br/site/)
+
+---
+
+### 📫 Vamos conversar?
+
+Estou aberto a novos desafios e oportunidades!
+
+[![Website](https://img.shields.io/badge/Website-webdesigncriarte.com.br-blue?style=for-the-badge&logo=google-chrome)](https://webdesigncriarte.com.br)
+[![Currículo](https://img.shields.io/badge/Currículo-Completo-green?style=for-the-badge)](https://webdesigncriarte.com.br/curriculo)
+
+---
+
+⭐️ Se gostou do meu trabalho, deixe uma estrela nos repositórios!
