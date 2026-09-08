@@ -14,15 +14,11 @@ Mais do que apenas programar ou desenhar, encaro meu trabalho como um hobby e um
 
 #### Principais áreas de atuação e especialidades
 
-**E-commerce & CMS:** Domínio avançado em WordPress (WooCommerce) e sólida experiência em Magento (1.x e 2.x), focado na criação de lojas virtuais escaláveis e seguras.
-
-**Front-end:** Especialista em HTML5, CSS3, SASS e LESS, além de sólida bagagem em jQuery/JavaScript e práticas modernas com ReactJs.
-
-**Back-end:** Desenvolvimento dinâmico utilizando PHP e modelagem de dados com MySQL.
-
-**Design Digital:** Criação e vetorização de layouts e interfaces utilizando Adobe Photoshop, Illustrator e Fireworks.
-
-**DevOps & Otimização:** Fluxos de trabalho modernos com Git/GitHub, automação via GitHub Actions e aplicação de técnicas avançadas de SEO para posicionamento orgânico.
+- **E-commerce & CMS:** Domínio avançado em WordPress (WooCommerce) e sólida experiência em Magento (1.x e 2.x), focado na criação de lojas virtuais escaláveis e seguras.
+- **Front-end:** Especialista em HTML5, CSS3, SASS e LESS, além de sólida bagagem em jQuery/JavaScript e práticas modernas com ReactJs.
+- **Back-end:** Desenvolvimento dinâmico utilizando PHP e modelagem de dados com MySQL.
+- **Design Digital:** Criação e vetorização de layouts e interfaces utilizando Adobe Photoshop, Illustrator e Fireworks.
+- **DevOps & Otimização:** Fluxos de trabalho modernos com Git/GitHub, automação via GitHub Actions e aplicação de técnicas avançadas de SEO para posicionamento orgânico.
 
 
 
