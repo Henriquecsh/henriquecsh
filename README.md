@@ -1,6 +1,6 @@
 ### Olá! Eu sou o **Henrique Souza** 👋
 
-**Desenvolvedor Web Full Stack | WordPress | Magento | PHP | Front-end**
+**Desenvolvedor Web Full Stack | WordPress | Magento | PHP | Láravel | Front-end | Back-end**
 
 ---
 
