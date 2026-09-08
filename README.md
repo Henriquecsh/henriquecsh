@@ -27,9 +27,11 @@ Sou um designer apaixonado que sempre quer crescer, aprender e tentar algo novo.
 - PHP / MySQL
 - WordPress / WooCommerce (Avançado)
 - Magento 1.x & 2.x
+- Láravel 4.x +
 
 **Ferramentas & Outros**
 - Git / GitHub / Git Actions
+- Figma
 - SEO
 - Adobe Photoshop & Illustrator
 - Adobe Fireworks
@@ -53,12 +55,15 @@ Sou um designer apaixonado que sempre quer crescer, aprender e tentar algo novo.
 
 - [**Germânica**](https://germanica.com.br)
 - [**Loja Cozinhanet**](https://lojacozinhanet.com.br)
-- [**DG Signs Print**](https://dgsignsprint.co.uk)
 - [**Insait**](https://insait.com.br)
-- [**Mgodoi Consultoria**](http://www.mgodoi.com.br)
+- [**Mgodoi Consultoria**](https://www.mgodoi.com.br)
 - [**CER Ensino Religioso**](https://cerensinoreligioso.com.br)
-- [**SATS Administradora**](http://satsbh.com.br/)
-- [**Elysium Telecom**](http://elysiumtelecom.com.br/site/)
+- [**SATS Administradora**](https://satsbh.com.br)
+- [**Bombear - Concreto e Asfalto**](https://bombear.com.br)
+
+
+### 🚀 Últimos Projetos em parcerias CLT
+- [**Aicinema**](http://aicinema.com.br)
 
 ---
 
