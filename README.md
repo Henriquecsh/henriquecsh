@@ -6,11 +6,20 @@
 
 #### Sobre mim
 
-Sou um desenvolvedor versátil especializado na criação de sites bonitos e funcionais, interfaces digitais e sistemas web.  
-Tenho **mais de 10 anos de experiência** na indústria web e trabalhei com muitas empresas e clientes excepcionais.  
+Olá! Sou um Desenvolvedor Web Full Stack **com mais de 10 anos de experiência** criando soluções digitais que unem alta performance técnica e excelência visual. Ao longo da minha carreira, colaborei com diversas empresas e agências na entrega de ecossistemas web robustos, e-commerces de alto impacto e interfaces totalmente responsivas.
 
-Sou um designer apaixonado que sempre quer crescer, aprender e tentar algo novo.  
-**Amo o que faço — meu trabalho é meu hobby.**
+Minha grande paixão é ajudar marcas a alcançarem seus objetivos de negócios através da tecnologia e do design funcional. Transito com facilidade entre o desenvolvimento de código limpo e a criação visual, o que me permite ter uma visão holística e estratégica de cada projeto — do rascunho inicial à publicação.
+
+Mais do que apenas programar ou desenhar, encaro meu trabalho como um hobby e uma oportunidade constante de aprendizado. Estou sempre em busca de novos desafios tecnológicos e soluções criativas para impulsionar resultados.
+
+#### Principais áreas de atuação e especialidades
+
+**E-commerce & CMS:** Domínio avançado em WordPress (WooCommerce) e sólida experiência em Magento (1.x e 2.x), focado na criação de lojas virtuais escaláveis e seguras.
+**Front-end:** Especialista em HTML5, CSS3, SASS e LESS, além de sólida bagagem em jQuery/JavaScript e práticas modernas com ReactJs.
+**Back-end:** Desenvolvimento dinâmico utilizando PHP e modelagem de dados com MySQL.
+**Design Digital:** Criação e vetorização de layouts e interfaces utilizando Adobe Photoshop, Illustrator e Fireworks.
+**DevOps & Otimização:** Fluxos de trabalho modernos com Git/GitHub, automação via GitHub Actions e aplicação de técnicas avançadas de SEO para posicionamento orgânico.
+
 
 📍 São João Batista - Belo Horizonte - MG
 
@@ -69,7 +78,7 @@ Sou um designer apaixonado que sempre quer crescer, aprender e tentar algo novo.
 
 ### 📫 Vamos conversar?
 
-Estou aberto a novos desafios e oportunidades!
+Quer trocar uma ideia sobre desenvolvimento web, e-commerce ou novas oportunidades? Vamos nos conectar!
 
 [![Website](https://img.shields.io/badge/Website-webdesigncriarte.com.br-blue?style=for-the-badge&logo=google-chrome)](https://webdesigncriarte.com.br)
 [![Currículo](https://img.shields.io/badge/Currículo-Completo-green?style=for-the-badge)](https://webdesigncriarte.com.br/curriculo)
