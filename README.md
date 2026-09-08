@@ -60,7 +60,11 @@ Mais do que apenas programar ou desenhar, encaro meu trabalho como um hobby e um
 
 ### 🚀 Últimos Projetos
 
+- [**Jacqueline Souza**](https://jacquelinesouza.com.br)
+- [**Aguias de Minas**](https://aguiasdeminas.com.br)
+- [**Amparo Consultoria**](https://amparoconsultoria.com.br)
 - [**Germânica**](https://germanica.com.br)
+- [**Portal Cozinhanet**](https://cozinhanet.com.br)
 - [**Loja Cozinhanet**](https://lojacozinhanet.com.br)
 - [**Insait**](https://insait.com.br)
 - [**Mgodoi Consultoria**](https://www.mgodoi.com.br)
