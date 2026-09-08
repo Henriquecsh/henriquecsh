@@ -81,8 +81,7 @@ Quer trocar uma ideia sobre desenvolvimento web, e-commerce ou novas oportunidad
 
 [![Website](https://img.shields.io/badge/Website-webdesigncriarte.com.br-blue?style=for-the-badge&logo=google-chrome)](https://webdesigncriarte.com.br)
 [![Currículo](https://img.shields.io/badge/Currículo-Completo-green?style=for-the-badge)](https://webdesigncriarte.com.br/curriculo)
-[![Linkedin](https://img.shields.io/badge/linkedin-linkedin.com/in/henrique-souza-blue?style=for-the-badge)](https://www.linkedin.com/in/henrique-souza/)
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhenrique-souza%2F?logo=linkedin&label=Linkedin&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhenrique-souza%2F)
+[![Website](https://img.shields.io/badge/Website-linkedin.com/in/henrique-souza-blue?style=for-the-badge)](https://www.linkedin.com/in/henrique-souza)
 
 
 ---
