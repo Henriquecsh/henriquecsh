@@ -17,15 +17,16 @@ Mais do que apenas programar ou desenhar, encaro meu trabalho como um hobby e um
 - **E-commerce & CMS:** Domínio avançado em WordPress (WooCommerce) e sólida experiência em Magento (1.x e 2.x), focado na criação de lojas virtuais escaláveis e seguras.
 - **Front-end:** Especialista em HTML5, CSS3, SASS e LESS, além de sólida bagagem em jQuery/JavaScript e práticas modernas com ReactJs.
 - **Back-end:** Desenvolvimento dinâmico utilizando PHP e modelagem de dados com MySQL.
-- **Design Digital:** Criação e vetorização de layouts e interfaces utilizando Adobe Photoshop, Illustrator e Fireworks.
-- **DevOps & Otimização:** Fluxos de trabalho modernos com Git/GitHub, automação via GitHub Actions e aplicação de técnicas avançadas de SEO para posicionamento orgânico.
+- **Design Digital:** Criação e vetorização de layouts e interfaces utilizando Figma, Adobe Photoshop e Illustrator.
+- **DevOps:** Fluxos de trabalho modernos com Git/GitHub, automação via GitHub Actions e aplicação de técnicas avançadas automação e deploy.
+- **Seo e Otimisação:**  Analista de SEO Técnico, Desenvolvedor SEO com técnicas para posicionamento orgânico e Especialista em Performance Web (Web Performance Optimization - WPO).
 
 ---
 
 ### 🛠️ Tecnologias e Habilidades
 
 **Front-end**
-- HTML5 / CSS3 / SASS / SCSS / Less
+- HTML5 / CSS3 / SASS / SCSS / Less / Tailwind / Bootstrap
 - JavaScript / jQuery
 - React.js (Básico)
 
@@ -69,7 +70,8 @@ Mais do que apenas programar ou desenhar, encaro meu trabalho como um hobby e um
 
 
 ### 🚀 Últimos Projetos em parcerias CLT
-- [**Aicinema**](http://aicinema.com.br)
+- [**Aicinema**](https://aicinema.com.br)
+- [**Belive**](https://belivebefree.com.br)
 
 ---
 
@@ -79,6 +81,7 @@ Quer trocar uma ideia sobre desenvolvimento web, e-commerce ou novas oportunidad
 
 [![Website](https://img.shields.io/badge/Website-webdesigncriarte.com.br-blue?style=for-the-badge&logo=google-chrome)](https://webdesigncriarte.com.br)
 [![Currículo](https://img.shields.io/badge/Currículo-Completo-green?style=for-the-badge)](https://webdesigncriarte.com.br/curriculo)
+[![Linkedin](https://img.shields.io/badge/Website-webdesigncriarte.com.br-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/henrique-souza/)
 
 ---
 
